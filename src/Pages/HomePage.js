@@ -34,7 +34,7 @@ function HomePage() {
                     </h1>
                     <p className="text-white text-[1rem] md:text-[1.5rem] mt-4">
                         I am a Web Developer and a Space Enthusiast. <br />
-                        I am passionate about creating beautiful and functional websites.
+                        I am passionate about creating beautiful and functional websites....
                     </p>
                     <button
                         onClick={scrollToContact}
